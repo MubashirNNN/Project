@@ -161,3 +161,12 @@ a{
     font-family: "Exotc350 DmBd BT";
     font-size: 20px;
 }
+.contact-form
+{
+    background: url("../images/bg.jpg");
+    -webkit-bacground-size:cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
