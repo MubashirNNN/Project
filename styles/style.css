@@ -111,7 +111,7 @@ body#home{
 body#login{
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url("../images/log.jpg");
+    background-image: url("../images/world.jpg");
     background-attachment: fixed;
 }
 
@@ -189,4 +189,11 @@ a{
     color: white;
     font-size: 20px;
     text-decoration: none;
+}
+
+.color{
+    background: #007bff;
+    color:white;
+    font-family: "Exotc350 DmBd BT";
+    font-size: 20px;
 }
