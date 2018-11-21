@@ -4,8 +4,15 @@
     max-width: 400px;
 }
 
+.text-wrapper p{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: Algerian;
+}
+
 .boxabout{
-    background-color: blue;
+    background-color: #6c757d;
     height: 500px;
     width: 550px;
     float: left;
@@ -17,7 +24,6 @@
     margin-top: 10%;
     width: 100%;
     height: 1346px;
-    background-image: url("a.jpg");
     background: silver;
 }
 
@@ -115,14 +121,7 @@ body#login{
     background-attachment: fixed;
 }
 
-.boxabout{
-    background-color: #6c757d;
-    height: 500px;
-    width: 550px;
-    float: left;
-    margin: 100px;
-    border-radius: 20px;
-}
+
 .box{
     background-color: #007bff;
     height: 500px;
