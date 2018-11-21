@@ -1,32 +1,34 @@
 #main {
     /* add CSS here */
     margin: auto;
+    background: url("../images/about.jpg");
     max-width: 400px;
 }
 
-.text-wrapper p{
-    text-align: center;
-    color: white;
-    font-size: 30px;
-    font-family: Algerian;
-}
 
 .boxabout{
-    background-color: #6c757d;
-    height: 500px;
-    width: 550px;
+    background: skyblue;
+    height: 300px;
+    width: 850px;
     float: left;
     margin: 100px;
     border-radius: 20px;
 }
 
 .rectangleabout{
+
+
     margin-top: 10%;
     width: 100%;
     height: 1346px;
     background: silver;
 }
+.aboutBackground{
+    background: url("../images/about.jpg");
+    background-repeat: no-repeat;
 
+    background-attachment: fixed;
+}
 
 
 
@@ -196,3 +198,4 @@ a{
     font-family: "Exotc350 DmBd BT";
     font-size: 20px;
 }
+
