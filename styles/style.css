@@ -154,3 +154,14 @@ a{
     font-size: 20px;
     text-decoration: none;
 }
+.tabspace
+{
+    margin-left: 20px;
+}
+.colour{
+    background:skyblue;
+    color: white;
+    font-family: "Exotc350 DmBd BT";
+    font-size: 30px;
+
+}
