@@ -245,3 +245,28 @@ a{
     width: 100%;
 }
 /*ahsan*/
+
+/*khyzer About*/
+.boxabout{
+    background-color: skyblue;
+    height: 300px;
+    width: 1000px;
+    float: left;
+    margin: 100px;
+    border-radius: 20px;
+}
+
+.textabout{
+    text-align: center;
+}
+.aboutBackground{
+    background: url("../images/about.jpg");
+    -webkit-bacground-size:cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
