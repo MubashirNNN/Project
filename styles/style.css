@@ -269,3 +269,8 @@ a{
     background-attachment: fixed;
 
 }
+
+/*wahab*/
+.forgetBackground{
+    background: url("../images/world.jpg");
+}
