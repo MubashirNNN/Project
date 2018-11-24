@@ -185,6 +185,13 @@ a{
     font-family: "Exotc350 DmBd BT";
     font-size: 20px;
 }
+.color23
+{
+    background: transparent;
+    color: white;
+    font-family: "Exotc350 DmBd BT";
+    font-size: 20px;
+}
 /*ahsan*/
 .contact-form
 {
@@ -273,4 +280,9 @@ a{
 /*wahab*/
 .forgetBackground{
     background: url("../images/world.jpg");
+}
+.mbackground
+{
+    background: url("../images/mback.jpg");
+    background-repeat: no-repeat;
 }
